@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="enter_movie_title_here">Enter movie title here</string>
+    <string name="enter_genre_here">Enter genre here</string>
+    <string name="year">Year</string>
+    <string name="enter_year_of_release_here">Enter year of release here</string>
+    <string name="insert">insert</string>
+    <string name="show_list">show list</string>
+    <string name="show_all_movies_with_this_rating">Show all movies with this rating</string>
+    <string name="movie_id">Movie ID</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
